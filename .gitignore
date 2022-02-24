@@ -1,0 +1,6 @@
+
+SuperExampleGame.API/obj/*
+SuperExampleGame.API/bin/*
+SuperExampleGame.UnitTests/obj/*
+SuperExampleGame.UnitTests/bin/*
+.vscode/*
