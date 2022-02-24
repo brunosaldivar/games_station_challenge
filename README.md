@@ -1,2 +1,3 @@
-# games_station_challenge
+# Games Station Challenge
+
 Super example game
